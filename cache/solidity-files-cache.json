@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/arlav/Documents/GitHub/ecaade2021/contracts/FungibleToken.sol": {
+      "lastModificationDate": 1630866491917,
+      "contentHash": "5cb69e3c5068a8a2dd82c4c3e3712962",
+      "sourceName": "contracts/FungibleToken.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
